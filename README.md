@@ -15,13 +15,17 @@ BOM
 - https://www.amazon.ca/Zeee-Battery-Quadcopter-Helicopter-Airplane/dp/B09B9ZPT3M?ref_=ast_sto_dp
 5. Radiomaster XR1 Nano Receiver 2.4GHz 900MHz Dual-Band T Antenna ExpressLRS Receiver: **$50**
 - https://www.aliexpress.com/item/1005008512696774.html?spm=a2g0o.productlist.main.3.69faVxmWVxmW8P&algo_pvid=ef1b9873-fcbb-4780-9722-fcfdd8578742&algo_exp_id=ef1b9873-fcbb-4780-9722-fcfdd8578742-2&pdp_ext_f=%7B%22order%22%3A%2249%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2149.72%2127.41%21%21%2134.67%2119.11%21%4021030dcd17855134357162495e22d9%2112000045496075637%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A83956b84%3Bm03_new_user%3A-29895%3BpisId%3A5000000210902374&curPageLogUid=NFLc7gSR7lIC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008512696774%7C_p_origin_prod%3A
+6. 7 inch 7x4x3 Tri-Blade Prop: $29
+- https://www.amazon.ca/HQProp-Tri-Blade-Propellers-Cinelifter-Carbonate/dp/B0C8S81G8P/ref=sr_1_3?crid=15ILOHXTOG717&dib=eyJ2IjoiMSJ9.sXaG9ccBGxtF_UftlNiEd8pZTa1EkgCGwW9GzXnrFhVE3zznZFauOCdCrpjF011vPWSntdKmt1rOObb90Mt3woIIoYfLD0liKPxvu3Ji2jqkqeyvK57fn7Fmly5v3qbK83up0pJMq-O0vlEOmIC66CDFyRlR8CLNhMMBCuTLJM-AHE3duf-w0Tvwu1C4dP1t4MP5WGcgTiNc-vZhPFUf6rSeik3AOHwi_emUJNZydvBgQpFenO1lq8q3Ii-t2-NE5WEkiRLOwtwpL18rcdo4BZD9rGgD766eooLqW_GS-v8.8X0eaGsePaaBKG3qj4a4lI89AN3IwqcPQ2ktlhzvNj8&dib_tag=se&keywords=7x3.5x3+props&qid=1785514379&sprefix=7x3+5x3+prop%2Caps%2C179&sr=8-3
 ----
 
-6.  PETG-cf filament
+7. PETG-cf filament
     - will need a Hardened Steel Nozzle 0.6mm for this **$13**
-7. TPU filament
-8.  IMARS D300 G-Tech Series: **$166**
+8. TPU filament
+9. IMARS D300 G-Tech Series: **$166**
 - https://www.amazon.ca/Battery-Charger-D300-Balance-Batteries/dp/B0DZSBVWF5/ref=sr_1_8?dib=eyJ2IjoiMSJ9.ITT4dTIw58_I2rUkOVaawv9tg4llCxTdaybOxVS9YAuB74Q3kP8ZucL1DCXA-IDqnLh73cQJL2YgYNTIkkU-8Z-fuw7045JLndTLmEACm3j_P1AAkG2j7F-prBaDKdp6P3y7UiBwX8w0pot5EyMPqnznajI6Rf8MDizMlE7b_lZOvYD2lEjf9q9i6gG-cJKZvMhg56Emd6GN6NCSw1EZ7hLicmPYBg9RPfigehXVZjelPiuW-mgKcdMhYe3F4Nyg_J1zbP6z_WZv43qlksrpyTzCP0DNWrMUXKcm2wj85eA.-3fILOjtnyunjTQDIPzUBjW0ABDlsulul6EiIcXC2pY&dib_tag=se&keywords=6S+LiPo+charger&qid=1785514001&refinements=p_36%3A11500-&rnid=12035759011&sr=8-8
+10. Mitoot MG996R Servo motor: **$10**
+- https://www.aliexpress.com/item/1005011712115377.html?spm=a2g0o.productlist.main.9.267050f850f8ce&algo_pvid=1a717184-78a2-4e74-8396-afe83ed2eb76&algo_exp_id=1a717184-78a2-4e74-8396-afe83ed2eb76-8&pdp_ext_f=%7B%22order%22%3A%22168%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2120.18%219.89%21%21%2194.92%2146.52%21%402101ef5e17855142391096552e21e1%2112000056408220001%21sea%21CA%212679274126%21X%211%210%21n_tag%3A-29919%3Bd%3A83956b84%3Bm03_new_user%3A-29895&curPageLogUid=vXx516Doc9zJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011712115377%7C_p_origin_prod%3A
 
 Here's an image of the 3d model:
 -
