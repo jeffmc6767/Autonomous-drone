@@ -16,7 +16,8 @@ BOM
 3. 2807 Brushless motors 1300kv: **$14 x 4 = 56**
 - https://store.uniteduav.com/products/hobbywing-rtf-2807-fpv-drone-brushless-motor-7-inch-drone-engine?variant=50972002025688
 4. 6s lipo battery
-5. Holybro SiK 915MHz Telemetry Radio
+5.Radiomaster XR1 Nano Receiver 2.4GHz 900MHz Dual-Band T Antenna ExpressLRS Receiver: **$50**
+- https://www.aliexpress.com/item/1005008512696774.html?spm=a2g0o.productlist.main.3.69faVxmWVxmW8P&algo_pvid=ef1b9873-fcbb-4780-9722-fcfdd8578742&algo_exp_id=ef1b9873-fcbb-4780-9722-fcfdd8578742-2&pdp_ext_f=%7B%22order%22%3A%2249%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2149.72%2127.41%21%21%2134.67%2119.11%21%4021030dcd17855134357162495e22d9%2112000045496075637%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A83956b84%3Bm03_new_user%3A-29895%3BpisId%3A5000000210902374&curPageLogUid=NFLc7gSR7lIC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008512696774%7C_p_origin_prod%3A
 ----
 
 10. PETG-cf filament
