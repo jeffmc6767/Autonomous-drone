@@ -7,9 +7,11 @@ BOM
 6. 2207 brushless motors x4
 7. 6s lipo battery
 8. Holybro SiK 915MHz Telemetry Radio
+----
 
 10. PETG-cf filament
-11. TPU filament
+    - will need a Hardened Steel Nozzle 0.6mm for this
+12. TPU filament
 
 Here's an image of the 3d model:
 -
