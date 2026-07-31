@@ -3,23 +3,20 @@ This is my fully autonomous drone project.
 
 It will use ArduPilot firmware to control the drone - downloaded onto the Rotor fpv flight controler. 
 
-Raspberry pi 5 to process data using OpenCV or Yolo models with the raspberry pi camera
-
 It will use 5 inch props and 2207 brushless motors
 
 
 BOM
 - 
 
-1. SpeedyBee F405 V5 OX32 55A 30x30 Model Aircraft FC&ESC Stack: $131
-   -https://www.speedybee.com/speedybee-f405-v5-55a-stack/
-3. Raspberry Pi 5 + Raspberry Pi Camera Module 3
-4. M10 GPS - Holybro: $44
-   -https://holybro.com/products/m10-gps?srsltid=AfmBOooO4W2vENdGD5hr2i8ZOHnd5x41-2PEYt0Rop2oPsvz_6V8OtxM
-6. 2807 Brushless motors 1300kv: $14 x 4
+1. SpeedyBee F405 V5 OX32 55A 30x30 Model Aircraft FC&ESC Stack: **$131**
+- https://www.speedybee.com/speedybee-f405-v5-55a-stack/
+2. M10 GPS - Holybro: **$44**
+- https://holybro.com/products/m10-gps?srsltid=AfmBOooO4W2vENdGD5hr2i8ZOHnd5x41-2PEYt0Rop2oPsvz_6V8OtxM
+3. 2807 Brushless motors 1300kv: **$14 x 4 = 56**
 - https://store.uniteduav.com/products/hobbywing-rtf-2807-fpv-drone-brushless-motor-7-inch-drone-engine?variant=50972002025688
-8. 6s lipo battery
-9. Holybro SiK 915MHz Telemetry Radio
+4. 6s lipo battery
+5. Holybro SiK 915MHz Telemetry Radio
 ----
 
 10. PETG-cf filament
