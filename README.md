@@ -11,7 +11,7 @@ It will use 5 inch props and 2207 brushless motors
 BOM
 - 
 
-1. XRotor FPV Stack (4in1 ESC & FC ) 30x30 esc
+1. SpeedyBee F405 V5 OX32 55A 30x30 Model Aircraft FC&ESC Stack
 2. Raspberry Pi 5 + Raspberry Pi Camera Module 3
 3. Matek M10Q-5883
 6. 2207 brushless motors x4
