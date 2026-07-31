@@ -11,6 +11,13 @@ It uses the DJI o4 air unit to communicate with the n3 goggles(I already own it)
 
 Oh and I forgot I need to get a drone license to fly this because it will MOST LIKELY be over 250g... the battery is 600. 
 
+How am I building it
+- 
+
+Im going to be 3d printing the entire frame, and small accessories using Petg-cf(frame) then TPU for vibration dampening and dowels and soft stuff to protect items.
+
+Im going to have to solder a bunch of the stuff on the drone to connect different components together 
+
 BOM
 - 
 
