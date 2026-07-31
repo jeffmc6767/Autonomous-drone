@@ -1,10 +1,6 @@
 This is my fully autonomous drone project. 
 -
 
-It will use ArduPilot firmware to control the drone - downloaded onto the Rotor fpv flight controler. 
-
-It will use 5 inch props and 2207 brushless motors
-
 
 BOM
 - 
@@ -22,9 +18,10 @@ BOM
 ----
 
 6.  PETG-cf filament
-    - will need a Hardened Steel Nozzle 0.6mm for this
+    - will need a Hardened Steel Nozzle 0.6mm for this **$13**
 7. TPU filament
-8. Lipo Charger
+8.  IMARS D300 G-Tech Series: **$166**
+- https://www.amazon.ca/Battery-Charger-D300-Balance-Batteries/dp/B0DZSBVWF5/ref=sr_1_8?dib=eyJ2IjoiMSJ9.ITT4dTIw58_I2rUkOVaawv9tg4llCxTdaybOxVS9YAuB74Q3kP8ZucL1DCXA-IDqnLh73cQJL2YgYNTIkkU-8Z-fuw7045JLndTLmEACm3j_P1AAkG2j7F-prBaDKdp6P3y7UiBwX8w0pot5EyMPqnznajI6Rf8MDizMlE7b_lZOvYD2lEjf9q9i6gG-cJKZvMhg56Emd6GN6NCSw1EZ7hLicmPYBg9RPfigehXVZjelPiuW-mgKcdMhYe3F4Nyg_J1zbP6z_WZv43qlksrpyTzCP0DNWrMUXKcm2wj85eA.-3fILOjtnyunjTQDIPzUBjW0ABDlsulul6EiIcXC2pY&dib_tag=se&keywords=6S+LiPo+charger&qid=1785514001&refinements=p_36%3A11500-&rnid=12035759011&sr=8-8
 
 Here's an image of the 3d model:
 -
