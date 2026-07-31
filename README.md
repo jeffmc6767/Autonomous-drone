@@ -16,9 +16,10 @@ BOM
 3. Raspberry Pi 5 + Raspberry Pi Camera Module 3
 4. M10 GPS - Holybro: $44
    -https://holybro.com/products/m10-gps?srsltid=AfmBOooO4W2vENdGD5hr2i8ZOHnd5x41-2PEYt0Rop2oPsvz_6V8OtxM
-6. 2207 brushless motors x4
-7. 6s lipo battery
-8. Holybro SiK 915MHz Telemetry Radio
+6. 2807 Brushless motors 1300kv: $14 x 4
+- https://store.uniteduav.com/products/hobbywing-rtf-2807-fpv-drone-brushless-motor-7-inch-drone-engine?variant=50972002025688
+8. 6s lipo battery
+9. Holybro SiK 915MHz Telemetry Radio
 ----
 
 10. PETG-cf filament
