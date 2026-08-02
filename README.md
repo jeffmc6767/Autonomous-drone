@@ -1,3 +1,7 @@
+Reminding myself I need a 35V 1000uF on the ESC
+-
+
+
 This is my fully autonomous drone project. 
 -
 The goal of this autonomous drone currently is to transport items up to 1kg in weight anywhere from 5km to 10km(but its unlikely because the battery would cost way too much like 300+) fully autonomously with no human input. 
