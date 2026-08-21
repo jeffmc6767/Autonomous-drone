@@ -1,3 +1,5 @@
+<img width="482" height="540" alt="Screenshot 2026-08-21 at 5 45 52 PM" src="https://github.com/user-attachments/assets/e8633f22-4d8b-4a15-bf11-cfbf75c0e634" />
+<img width="994" height="661" alt="Screenshot 2026-08-21 at 5 45 40 PM" src="https://github.com/user-attachments/assets/ba3455d2-223d-4cab-967c-1e825632f277" />
 JFC,
 -
 My custom 20x20 drone FC stack for 3-4s setups
@@ -36,6 +38,10 @@ Current version:
 Now its just an FC: 
 <img width="531" height="630" alt="Screenshot 2026-08-21 at 5 43 20 PM" src="https://github.com/user-attachments/assets/2e558948-eaea-4125-9af4-3da78b4aaaf3" />
 <img width="767" height="658" alt="Screenshot 2026-08-21 at 5 43 08 PM" src="https://github.com/user-attachments/assets/d7961b64-8a66-4ed3-8ee0-fb5eccd1fa36" />
+
+The 3d pcb doesnt look too good because its not really populated and it took SO long to make: 
+<img width="574" height="548" alt="Screenshot 2026-08-21 at 5 46 15 PM" src="https://github.com/user-attachments/assets/2ad91a60-55bf-4e85-b760-15d51ffea3e4" />
+<img width="526" height="584" alt="Screenshot 2026-08-21 at 5 46 06 PM" src="https://github.com/user-attachments/assets/09d49957-eb0d-425b-8ce0-b206efd616f9" />
 
 The drone frame that im using is an open source stl file from maker world. I have tweaked it to my own personal choices for my components to make sure everything works together. 
 <img width="715" height="590" alt="Screenshot 2026-08-21 at 5 44 35 PM" src="https://github.com/user-attachments/assets/37bc13dd-d087-4d0e-a50f-4cb0703507fd" />
