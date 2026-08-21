@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2127K-3.3TRG1
+D DiodesZetex AP2127K-3.3TRG1, LDO Regulator, 3.3 V, +/-2% 5-Pin, SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/AP2127.pdf
+$ENDCMP
+#
+#End Doc Library

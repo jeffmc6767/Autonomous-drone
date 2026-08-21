@@ -1,0 +1,9 @@
+Manufacturer=Fortior Tech
+PartNumber=FD6288Q
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2021-01-10 07:02:30
+Downloaded=2026-08-17 17:18:28
+3D=Y

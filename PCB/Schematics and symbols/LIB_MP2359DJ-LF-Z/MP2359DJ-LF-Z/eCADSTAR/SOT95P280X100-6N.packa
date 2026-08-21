@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MP2359DJ-LF-Z"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-27-12:52:09)
+    (mountForm default
+        (footprintRef "SOT95P280X100-6N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "8-PIN-METAL-LID-LGA"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "8-PIN-METAL-LID-LGA")
+        (spec "default")
+    )
+)

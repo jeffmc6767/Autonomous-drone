@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPC8107"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-04-04-12:27:25)
+    (mountForm default
+        (footprintRef "SOIC127P600X190-8N")
+        (spec "System")
+    )
+)

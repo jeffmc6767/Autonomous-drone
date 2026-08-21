@@ -1,0 +1,18 @@
+.STM32G071G8U6 :1 ;Arm Cortex-M0+ 32-bit MCU, up to 128 KB Flash, 36 KB RAM, 4x USART, timers, ADC, DAC, comm. I/Fs, 1.7-3.6V
+QFN50P400X400X60-28N-D
+*STM IC
+*NGS
+*PLB 1="PC14-OSC32_IN" 2="PC15-OSC32_OUT" 3="VDD/VDDA" 4="VSS/VSSA" 5="PF2-NRST" 6="PA0" 7="PA1" 8="PA2" 9="PA3" 10="PA4" 11="PA5" 12="PA6" 13="PA7" 14="PB0" 15="PB1" 16="PA8" 17="PC6" 18="PA11 [PA9]" 19="PA12 [PA10]" 20="PA13" 21="PA14-BOOT0" 22="PA15" 23="PB3" 24="PB4" 25="PB5" 26="PB6" 27="PB7" 28="PB8"
+*MXP 28
+*DFN STM32G071G8U6
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STM32G071G8U6)
+~!Mouser Part Number (511-STM32G071G8U6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G071G8U6?qs=l7cgNqFNU1h6sPpCoQAi5w%3D%3D)
+~!Arrow Part Number (STM32G071G8U6)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/stm32g071g8u6/stmicroelectronics.html?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stm32g071c8.pdf)
+~!Height (0.6mm)
+~!3D_Model (STM32G071G8U6)
+STM32G071G8U6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 

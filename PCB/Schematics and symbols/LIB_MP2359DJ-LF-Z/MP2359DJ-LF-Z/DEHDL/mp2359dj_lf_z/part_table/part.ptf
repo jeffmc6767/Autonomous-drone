@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MP2359DJ_LF_Z'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MP2359DJ-LF-Z" (!) = "", "SOT95P280X100-6N", "SOT23 (6-Pin)", "946-MP2359DJLFZ", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP2359DJ-LF-Z?qs=rC7bBWoQAAkgAaURxgQSyA%3D%3D", "MP2359DJ-LF-Z", "https://www.arrow.com/en/products/mp2359dj-lf-z/monolithic-power-systems.html?utm_currency=USD&region=nac", "Voltage Regulators - Switching Regulators 1A 24V 1.4MHz Non-sync Buck", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/89d986a89c59d1844ef77b6f65b8a4d2.pdf", "1 mm"
+END_PART
+
+END.

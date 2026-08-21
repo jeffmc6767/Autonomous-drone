@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EFM8BB21F16A_C_QFN20'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Silicon Labs", "EFM8BB21F16A-C-QFN20" (!) = "", "EFM8BB21F16ACQFN20", "Other", "634-EFM8BB21F16FN20", "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/EFM8BB21F16A-C-QFN20?qs=8HqIXBaaO6yFJdjkDKkkeA%3D%3D", "", "", "IC MCU 8BIT 16KB FLASH 20QFN", "https://componentsearchengine.com/Datasheets/2/EFM8BB21F16A-C-QFN20.pdf", "0.8 mm"
+END_PART
+
+END.

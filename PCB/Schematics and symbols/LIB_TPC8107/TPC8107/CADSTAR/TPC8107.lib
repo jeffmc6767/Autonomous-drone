@@ -1,0 +1,17 @@
+.TPC8107 :1 ;MOSFET MOSFET P-Ch 30V 13A Rdson=0.007Ohm
+SOIC127P600X190-8N
+*STM Q
+*NGS
+*PLB 1="SOURCE_1" 2="SOURCE_2" 3="SOURCE_3" 4="GATE" 5="DRAIN_1" 6="DRAIN_2" 7="DRAIN_3" 8="DRAIN_4"
+*MXP 8
+*DFN TPC8107
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TPC8107)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheetspdf.com/pdf-file/312202/ToshibaSemiconductor/TPC8107/1)
+~!Height (1.9mm)
+TPC8107
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

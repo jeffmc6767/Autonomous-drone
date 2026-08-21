@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AP2127K-3_3TRG1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-05-10:18:41)
+    (mountForm default
+        (footprintRef "SOT95P282X145-5N")
+        (spec "System")
+    )
+)

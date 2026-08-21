@@ -1,0 +1,121 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "bmp280"
+   (description "Digital Pressure Sensor")
+   (family "ANA")
+   (package "8-PIN-METAL-LID-LGA")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-24/462913.pdf")
+   (attribute "Manufacturer_Name" "BOSCH")
+   (attribute "Manufacturer_Part_Number" "bmp280")
+   (attribute "Mouser Part Number" "262-BMP280")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMP280?qs=QhAb4EtQfbUP9Z%252BCHM3Wyg%3D%3D")
+   (attribute "Arrow Part Number" "BMP280")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/bmp280/bosch?region=nac")
+   (gate
+    (symbol "bmp280")
+    (pin "GND_1" 1 PP)
+    (pin "CSB" 2 IP)
+    (pin "SDI" 3 PS)
+    (pin "SCK" 4 PS)
+    (pin "SDO" 5 PS)
+    (pin "VDDIO_1" 6 PP)
+    (pin "GND_2" 7 PP)
+    (pin "VDDIO_2" 8 PP)
+   )
+  )
+  (symbol "bmp280"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "8-PIN-METAL-LID-LGA"
+   (units MM)
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 1.25)
+      (pt 1 1.25)
+      (pt 1 -1.25)
+      (pt -1 -1.25)
+      (pt -1 1.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 1.25)
+      (pt 1 1.25)
+      (pt 1 -1.25)
+      (pt -1 -1.25)
+      (pt -1 1.25))))
+   (leg 1 (pt 0.8 0.975) (padstack 0))
+   (leg 2 (pt 0.8 0.325) (padstack 0))
+   (leg 3 (pt 0.8 -0.325) (padstack 0))
+   (leg 4 (pt 0.8 -0.975) (padstack 0))
+   (leg 5 (pt -0.8 -0.975) (padstack 0))
+   (leg 6 (pt -0.8 -0.325) (padstack 0))
+   (leg 7 (pt -0.8 0.325) (padstack 0))
+   (leg 8 (pt -0.8 0.975) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.35 0.5 0 0 0))
+   )
+   (model "bmp280.stp"
+    (euler -90 180 90)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

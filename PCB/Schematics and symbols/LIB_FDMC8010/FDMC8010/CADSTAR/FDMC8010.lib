@@ -1,0 +1,18 @@
+.FDMC8010 :1 ;Max RDS(on) = 1.3 m at VGS = 10 V, ID = 30 A; Max RDS(on) = 1.8 m at VGS = 4.5 V, ID = 25 A; High performance technology for extremely low RDS(on); Termination is Lead-free and RoHS Compliant
+FDMC8010
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN FDMC8010
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (FDMC8010)
+~!Mouser Part Number (512-FDMC8010)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMC8010?qs=BiJXFBt7cx1GJPIblT9OBw%3D%3D)
+~!Arrow Part Number (FDMC8010)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/fdmc8010/on-semiconductor?region=nac)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/FDMC8010-D.PDF)
+~!Height (0.8mm)
+~!3D_Model (FDMC8010)
+FDMC8010
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

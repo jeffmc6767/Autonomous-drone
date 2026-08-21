@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDMC8010'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "FDMC8010" (!) = "", "FDMC8010", "Other", "512-FDMC8010", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMC8010?qs=BiJXFBt7cx1GJPIblT9OBw%3D%3D", "FDMC8010", "https://www.arrow.com/en/products/fdmc8010/on-semiconductor?region=nac", "Max RDS(on) = 1.3 m at VGS = 10 V, ID = 30 A; Max RDS(on) = 1.8 m at VGS = 4.5 V, ID = 25 A; High performance technology for extremely low RDS(on); Termination is Lead-free and RoHS Compliant", "https://www.onsemi.com/pub/Collateral/FDMC8010-D.PDF", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F411CEU6
+D 32-Bit MCU 512K Flash 100MHz UFQFPN48 STMicroelectronics STM32F411CEU6, 32bit ARM Cortex M4 MCU, 100MHz, 512 kB Flash, 48-Pin UFQFPN
+K
+F https://www.st.com/resource/en/datasheet/stm32f411ce.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BMI270
+#/2018740/2136016/2.50/14/3/Integrated Circuit
+DEF BMI270 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "BMI270" 1050 500 50 H V L CNN
+F2 "BMI270" 1050 400 50 H I L CNN
+F3 "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi270-ds000.pdf" 1050 300 50 H I L CNN
+F4 "IMUs - Inertial Measurement Units Smart Ultra-Low Power Inertial Measurement Unit (IMU) for Wearable Applications" 1050 200 50 H I L CNN "Description"
+F5 "0.87" 1050 100 50 H I L CNN "Height"
+F6 "BOSCH" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "BMI270" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "262-BMI270" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI270?qs=u16ybLDytRYIj%252BjQEee88A%3D%3D" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "BMI270" 1050 -400 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bmi270/bosch-sensortec?utm_currency=USD&region=europe" 1050 -500 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X SDO 1 0 0 200 R 50 50 0 0 P
+X ASDX 2 0 -100 200 R 50 50 0 0 P
+X ASCX 3 0 -200 200 R 50 50 0 0 P
+X INT1 4 0 -300 200 R 50 50 0 0 P
+X VDDIO 5 500 -1000 200 U 50 50 0 0 P
+X GNDIO 6 600 -1000 200 U 50 50 0 0 P
+X GND 7 700 -1000 200 U 50 50 0 0 P
+X VDD 8 1200 -300 200 L 50 50 0 0 P
+X INT2 9 1200 -200 200 L 50 50 0 0 P
+X OCSB 10 1200 -100 200 L 50 50 0 0 P
+X OSDO 11 1200 0 200 L 50 50 0 0 P
+X CSB 12 700 600 200 D 50 50 0 0 P
+X SCX 13 600 600 200 D 50 50 0 0 P
+X SDX 14 500 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library

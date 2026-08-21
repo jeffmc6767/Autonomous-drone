@@ -1,0 +1,9 @@
+Manufacturer=Silicon Labs
+PartNumber=EFM8BB21F16A-C-QFN20
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=21
+Version=1.2
+Released=2021-04-01 11:41:24
+Downloaded=2026-08-19 05:08:36
+3D=Y

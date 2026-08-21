@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EFM8BB21F16A-C-QFN20"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-01-11:41:24)
+    (mountForm default
+        (footprintRef "EFM8BB21F16ACQFN20")
+        (spec "System")
+    )
+)

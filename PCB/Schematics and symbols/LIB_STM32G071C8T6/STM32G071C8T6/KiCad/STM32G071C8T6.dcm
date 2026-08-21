@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G071C8T6
+D Arm Cortex-M0+ 32-bit MCU, up to 128 KB Flash, 36 KB RAM, 4x USART, timers, ADC, DAC, comm. I/Fs, 1.7-3.6V
+K
+F https://www.st.com/resource/en/datasheet/stm32g071c8.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.FD6288Q :1 ;QFN-24 MOS Drivers RoHS
+QFN50P400X400X90-25N-D
+*STM IC
+*NGS
+*PLB 1="LIN1" 2="LIN2" 3="LIN3" 4="VCC" 5="NC_1" 6="COM" 7="NC_2" 8="NC_3" 9="LO3" 10="LO2" 11="LO1" 12="VS3" 13="HO3" 14="VB3" 15="VS2" 16="HO2" 17="VB2" 18="VS1" 19="HO1" 20="VB1" 21="NC_4" 22="HIN1" 23="HIN2" 24="HIN3" 25="EP"
+*MXP 25
+*DFN FD6288Q
+~!Manufacturer_Name (Fortior Tech)
+~!Manufacturer_Part_Number (FD6288Q)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/1811131655_Fortior-Tech-FD6288Q_C328453.pdf)
+~!Height (0.9mm)
+~!3D_Model (FD6288Q)
+FD6288Q
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

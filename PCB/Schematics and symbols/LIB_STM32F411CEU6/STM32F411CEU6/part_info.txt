@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32F411CEU6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=49
+Version=2.2
+Released=2017-09-06 14:06:43
+Downloaded=2026-08-14 23:43:26
+3D=Y

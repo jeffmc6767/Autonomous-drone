@@ -1,0 +1,9 @@
+Manufacturer=BOSCH
+PartNumber=bmp280
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2015-11-01 19:13:30
+Downloaded=2026-08-15 02:26:48
+3D=Y

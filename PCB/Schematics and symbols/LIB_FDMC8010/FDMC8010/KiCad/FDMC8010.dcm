@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMC8010
+D Max RDS(on) = 1.3 m at VGS = 10 V, ID = 30 A; Max RDS(on) = 1.8 m at VGS = 4.5 V, ID = 25 A; High performance technology for extremely low RDS(on); Termination is Lead-free and RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/FDMC8010-D.PDF
+$ENDCMP
+#
+#End Doc Library

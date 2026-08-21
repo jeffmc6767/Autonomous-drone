@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPC8107'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TPC8107" (!) = "", "SOIC127P600X190-8N", "Small Outline Packages", "", "", "", "", "MOSFET MOSFET P-Ch 30V 13A Rdson=0.007Ohm", "https://datasheetspdf.com/pdf-file/312202/ToshibaSemiconductor/TPC8107/1", "1.9 mm"
+END_PART
+
+END.

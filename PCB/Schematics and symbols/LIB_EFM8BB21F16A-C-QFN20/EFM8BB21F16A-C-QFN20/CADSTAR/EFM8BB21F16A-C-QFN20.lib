@@ -1,0 +1,18 @@
+.EFM8BB21F16A-C-QFN20 :1 ;IC MCU 8BIT 16KB FLASH 20QFN
+EFM8BB21F16ACQFN20
+*STM IC
+*NGS
+*PLB 1="P0.1" 2="P0.0" 3="GND_1" 4="VDD" 5="RSTB / C2CK" 6="P2.0 / C2D" 7="P1.6" 8="P1.5" 9="P1.4" 10="P1.3" 11="P1.2" 12="GND_2" 13="P1.1" 14="P1.0" 15="P0.7" 16="P0.6" 17="P0.5" 18="P0.4" 19="P0.3" 20="P0.2" 21="GND_3"
+*MXP 21
+*DFN EFM8BB21F16A-C-QFN20
+~!Manufacturer_Name (Silicon Labs)
+~!Manufacturer_Part_Number (EFM8BB21F16A-C-QFN20)
+~!Mouser Part Number (634-EFM8BB21F16FN20)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Silicon-Labs/EFM8BB21F16A-C-QFN20?qs=8HqIXBaaO6yFJdjkDKkkeA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/EFM8BB21F16A-C-QFN20.pdf)
+~!Height (0.8mm)
+~!3D_Model (EFM8BB21F16A-C-QFN20)
+EFM8BB21F16A-C-QFN20
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32F411CEU6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32F411CEU6" (!) = "", "QFN50P700X700X60-49N-D", "Quad Flat No-Lead", "511-STM32F411CEU6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F411CEU6?qs=pjMTYa9MTGV3ou31YBFa3g%3D%3D", "STM32F411CEU6", "https://www.arrow.com/en/products/stm32f411ceu6/stmicroelectronics.html?utm_currency=USD&region=nac", "32-Bit MCU 512K Flash 100MHz UFQFPN48 STMicroelectronics STM32F411CEU6, 32bit ARM Cortex M4 MCU, 100MHz, 512 kB Flash, 48-Pin UFQFPN", "https://www.st.com/resource/en/datasheet/stm32f411ce.pdf", "0.6 mm"
+END_PART
+
+END.

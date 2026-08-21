@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32G071C8T6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=3.1
+Released=2020-12-17 11:28:25
+Downloaded=2026-08-19 17:06:55
+3D=Y

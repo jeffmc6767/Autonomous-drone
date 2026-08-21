@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FD6288Q"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-10-07:02:30)
+    (mountForm default
+        (footprintRef "QFN50P400X400X90-25N-D")
+        (spec "System")
+    )
+)

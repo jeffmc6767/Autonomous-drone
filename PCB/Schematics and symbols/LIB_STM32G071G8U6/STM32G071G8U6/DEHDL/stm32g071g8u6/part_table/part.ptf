@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32G071G8U6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32G071G8U6" (!) = "", "QFN50P400X400X60-28N-D", "Quad Flat No-Lead", "511-STM32G071G8U6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G071G8U6?qs=l7cgNqFNU1h6sPpCoQAi5w%3D%3D", "STM32G071G8U6", "https://www.arrow.com/en/products/stm32g071g8u6/stmicroelectronics.html?utm_currency=USD&region=nac", "Arm Cortex-M0+ 32-bit MCU, up to 128 KB Flash, 36 KB RAM, 4x USART, timers, ADC, DAC, comm. I/Fs, 1.7-3.6V", "https://www.st.com/resource/en/datasheet/stm32g071c8.pdf", "0.6 mm"
+END_PART
+
+END.

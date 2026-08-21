@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2359DJ-LF-Z
+D Voltage Regulators - Switching Regulators 1A 24V 1.4MHz Non-sync Buck
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/89d986a89c59d1844ef77b6f65b8a4d2.pdf
+$ENDCMP
+#
+#End Doc Library

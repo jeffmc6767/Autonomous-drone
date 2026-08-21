@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=TPC8107
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2023-04-04 12:27:25
+Downloaded=2026-08-19 05:11:03
+3D=N

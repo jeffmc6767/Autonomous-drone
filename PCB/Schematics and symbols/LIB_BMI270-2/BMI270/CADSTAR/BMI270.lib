@@ -1,0 +1,18 @@
+.BMI270 :1 ;IMUs - Inertial Measurement Units Smart Ultra-Low Power Inertial Measurement Unit (IMU) for Wearable Applications
+BMI270
+*STM IC
+*NGS
+*PLB 1="SDO" 2="ASDX" 3="ASCX" 4="INT1" 5="VDDIO" 6="GNDIO" 7="GND" 8="VDD" 9="INT2" 10="OCSB" 11="OSDO" 12="CSB" 13="SCX" 14="SDX"
+*MXP 14
+*DFN BMI270
+~!Manufacturer_Name (BOSCH)
+~!Manufacturer_Part_Number (BMI270)
+~!Mouser Part Number (262-BMI270)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI270?qs=u16ybLDytRYIj%252BjQEee88A%3D%3D)
+~!Arrow Part Number (BMI270)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bmi270/bosch-sensortec?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi270-ds000.pdf)
+~!Height (0.87mm)
+~!3D_Model (BMI270)
+BMI270
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "EFM8BB21F16ACQFN20"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "EFM8BB21F16ACQFN20")
+        (spec "default")
+    )
+)

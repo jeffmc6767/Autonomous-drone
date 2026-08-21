@@ -1,0 +1,18 @@
+.MP2359DJ-LF-Z :1 ;Voltage Regulators - Switching Regulators 1A 24V 1.4MHz Non-sync Buck
+SOT95P280X100-6N
+*STM IC
+*NGS
+*PLB 1="BST" 2="GND" 3="FB" 4="EN" 5="IN" 6="SW"
+*MXP 6
+*DFN MP2359DJ-LF-Z
+~!Manufacturer_Name (Monolithic Power Systems (MPS))
+~!Manufacturer_Part_Number (MP2359DJ-LF-Z)
+~!Mouser Part Number (946-MP2359DJLFZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP2359DJ-LF-Z?qs=rC7bBWoQAAkgAaURxgQSyA%3D%3D)
+~!Arrow Part Number (MP2359DJ-LF-Z)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mp2359dj-lf-z/monolithic-power-systems.html?utm_currency=USD&region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/89d986a89c59d1844ef77b6f65b8a4d2.pdf)
+~!Height (1mm)
+~!3D_Model (MP2359DJ-LF-Z)
+MP2359DJ-LF-Z
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

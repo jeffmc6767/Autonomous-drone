@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFM8BB21F16A-C-QFN20
+D IC MCU 8BIT 16KB FLASH 20QFN
+K
+F https://componentsearchengine.com/Datasheets/2/EFM8BB21F16A-C-QFN20.pdf
+$ENDCMP
+#
+#End Doc Library

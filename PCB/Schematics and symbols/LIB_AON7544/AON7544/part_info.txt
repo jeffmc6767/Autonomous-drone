@@ -1,0 +1,9 @@
+Manufacturer=Alpha & Omega Semiconductors
+PartNumber=AON7544
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=11
+Version=1.3
+Released=2022-02-23 08:33:06
+Downloaded=2026-08-17 17:27:13
+3D=Y

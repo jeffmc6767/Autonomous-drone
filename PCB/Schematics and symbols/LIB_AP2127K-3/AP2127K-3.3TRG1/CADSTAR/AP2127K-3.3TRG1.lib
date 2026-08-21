@@ -1,0 +1,18 @@
+.AP2127K-3.3TRG1 :1 ;DiodesZetex AP2127K-3.3TRG1, LDO Regulator, 3.3 V, +/-2% 5-Pin, SOT-23
+SOT95P282X145-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="'SHUTDOWN'" 4="NC/ADJ" 5="VOUT"
+*MXP 5
+*DFN AP2127K-3.3TRG1
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (AP2127K-3.3TRG1)
+~!Mouser Part Number (621-AP2127K-3.3TRG1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP2127K-3.3TRG1?qs=x6A8l6qLYDCeAxisWuFs5g%3D%3D)
+~!Arrow Part Number (AP2127K-3.3TRG1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ap2127k-3.3trg1/diodes-incorporated?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/AP2127.pdf)
+~!Height (1.45mm)
+~!3D_Model (AP2127K-3.3TRG1)
+AP2127K-3.3TRG1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
