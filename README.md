@@ -1,3 +1,4 @@
+
 JFC,
 -
 My custom 20x20 drone FC stack for 3-4s setups
@@ -44,11 +45,12 @@ The 3d pcb doesnt look too good because its not really populated and it took SO 
 
 The drone frame that im using is an open source stl file from maker world. I have tweaked it to my own personal choices for my components to make sure everything works together. 
 <img width="715" height="590" alt="Screenshot 2026-08-21 at 5 44 35 PM" src="https://github.com/user-attachments/assets/37bc13dd-d087-4d0e-a50f-4cb0703507fd" />
+<img width="3024" height="4032" alt="IMG_2924" src="https://github.com/user-attachments/assets/04c3c591-1ba4-4cf6-9193-97cfb876cfb3" />
 
 
 FIrst versionL
 - 
-At first, I wanted to build a large 7" drone frame, but the size was way too much and costed too much. 
+At first, I wanted to build a large 7" drone frame, but the size was way too much and costed too much. - Also, it was 6s so everything was super expensive
 <img width="828" height="533" alt="Screenshot 2026-07-30 at 10 27 04 PM" src="https://github.com/user-attachments/assets/546fdda9-45f8-42da-bf20-779c6e596f0a" />
 
 Version 2
