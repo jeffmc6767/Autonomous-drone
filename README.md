@@ -1,10 +1,9 @@
-<img width="482" height="540" alt="Screenshot 2026-08-21 at 5 45 52 PM" src="https://github.com/user-attachments/assets/e8633f22-4d8b-4a15-bf11-cfbf75c0e634" />
-<img width="994" height="661" alt="Screenshot 2026-08-21 at 5 45 40 PM" src="https://github.com/user-attachments/assets/ba3455d2-223d-4cab-967c-1e825632f277" />
 JFC,
 -
 My custom 20x20 drone FC stack for 3-4s setups
 
 <img width="702" height="622" alt="Screenshot 2026-08-21 at 5 33 46 PM" src="https://github.com/user-attachments/assets/94055804-854b-4170-9926-a1f10f92e497" />
+<img width="574" height="548" alt="Screenshot 2026-08-21 at 5 46 15 PM" src="https://github.com/user-attachments/assets/2ad91a60-55bf-4e85-b760-15d51ffea3e4" />
 
 Quick start:
 -
