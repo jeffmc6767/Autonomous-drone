@@ -3,8 +3,8 @@ JFC,
 -
 My custom 20x20 drone FC stack for 3-4s setups
 
-<img width="702" height="622" alt="Screenshot 2026-08-21 at 5 33 46 PM" src="https://github.com/user-attachments/assets/94055804-854b-4170-9926-a1f10f92e497" />
-<img width="574" height="548" alt="Screenshot 2026-08-21 at 5 46 15 PM" src="https://github.com/user-attachments/assets/2ad91a60-55bf-4e85-b760-15d51ffea3e4" />
+<img width="840" height="692" alt="Screenshot 2026-08-22 at 11 21 34 PM" src="https://github.com/user-attachments/assets/7dafa391-2a2e-457f-a671-c9f435170b4a" />
+
 
 Quick start:
 -
@@ -35,15 +35,14 @@ Images gallery:
 -
 Current version:
 -
-Now its just an FC: 
 <img width="531" height="630" alt="Screenshot 2026-08-21 at 5 43 20 PM" src="https://github.com/user-attachments/assets/2e558948-eaea-4125-9af4-3da78b4aaaf3" />
-<img width="767" height="658" alt="Screenshot 2026-08-21 at 5 43 08 PM" src="https://github.com/user-attachments/assets/d7961b64-8a66-4ed3-8ee0-fb5eccd1fa36" />
+<img width="508" height="466" alt="Screenshot 2026-08-22 at 11 22 32 PM" src="https://github.com/user-attachments/assets/11296026-0bfc-454e-8a76-3a97c0032a68" />
 
-The 3d pcb doesnt look too good because its not really populated and it took SO long to make: 
-<img width="574" height="548" alt="Screenshot 2026-08-21 at 5 46 15 PM" src="https://github.com/user-attachments/assets/2ad91a60-55bf-4e85-b760-15d51ffea3e4" />
-<img width="526" height="584" alt="Screenshot 2026-08-21 at 5 46 06 PM" src="https://github.com/user-attachments/assets/09d49957-eb0d-425b-8ce0-b206efd616f9" />
+<img width="845" height="723" alt="Screenshot 2026-08-22 at 11 22 59 PM" src="https://github.com/user-attachments/assets/34c34ae3-5844-4452-9000-bad7e49f2483" />
+<img width="736" height="730" alt="Screenshot 2026-08-22 at 11 23 20 PM" src="https://github.com/user-attachments/assets/ee93d3cc-f8f9-495e-b53e-9eda3c0b2e71" />
 
-The drone frame that im using is an open source stl file from maker world. I have tweaked it to my own personal choices for my components to make sure everything works together. 
+The drone frame that im using is an open source stl file from maker world.
+
 <img width="715" height="590" alt="Screenshot 2026-08-21 at 5 44 35 PM" src="https://github.com/user-attachments/assets/37bc13dd-d087-4d0e-a50f-4cb0703507fd" />
 <img width="3024" height="4032" alt="IMG_2924" src="https://github.com/user-attachments/assets/04c3c591-1ba4-4cf6-9193-97cfb876cfb3" />
 
