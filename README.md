@@ -36,6 +36,10 @@ Images gallery:
 V5: 
 -
 PCB layout:  My pcb has seen the most changes from V5 to V4. I changed the dimensions from 39mmx37mm to 30mmx32mm. Everything is now compacted and looks much better from the V3 where it was larger and stuff was everywhere. 
+
+- Added ELRS pads for communication
+- Added GPS RX and TX
+- Added Borometer pads 
 <img width="785" height="750" alt="Screenshot 2026-08-27 at 12 05 02 PM" src="https://github.com/user-attachments/assets/4f887015-b989-4f76-99ce-1e4ef7748bc7" />
 <img width="487" height="500" alt="Screenshot 2026-08-27 at 12 07 03 PM" src="https://github.com/user-attachments/assets/36097295-e3e2-463c-ad62-5239ef32e481" />
 
@@ -45,6 +49,8 @@ This version will now use a custom 2 inch drone frame that I will 3d print
 
 V4:
 -
+
+transferred all B.CU components to the F.CU (not the JST connector) and modified the Edge.cuts 
 <img width="531" height="630" alt="Screenshot 2026-08-21 at 5 43 20 PM" src="https://github.com/user-attachments/assets/2e558948-eaea-4125-9af4-3da78b4aaaf3" />
 <img width="508" height="466" alt="Screenshot 2026-08-22 at 11 22 32 PM" src="https://github.com/user-attachments/assets/11296026-0bfc-454e-8a76-3a97c0032a68" />
 
