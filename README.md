@@ -5,6 +5,19 @@ My custom 20x20 drone FC stack for 3-4s setups
 
 <img width="785" height="750" alt="Screenshot 2026-08-27 at 12 05 02 PM" src="https://github.com/user-attachments/assets/4f887015-b989-4f76-99ce-1e4ef7748bc7" />
 
+Features:
+- 
+
+- up to 99kn/h (theoretical top speed under good conditions)
+- 4-5 minutes of flight time
+- Easy repairs! 1.2$ per print, 3.5 hours
+- up to 4K resolution
+- Compatible with ardupilot, an autonomous drone software. 
+
+
+
+
+
 Quick start:
 -
 
@@ -18,16 +31,6 @@ Here's how you can start building this yourself:
 6. Install all of the hardware
 7. Pair with your DJI Goggles(you will also need o4 air unit) and ELRS transmitter 
 8. FLYYY!!
-
-Features:
-- 
-
-- includes 6-axis gyroscope
-- up to 99kn/h (theoretical top speed under good conditions)
-- 4-5 minutes of flight time
-- Easy repairs! 1.2$ per print, 3.5 hours
-- up to 4K resolution
-- Full ACRO mode
 
 
 Images gallery:
