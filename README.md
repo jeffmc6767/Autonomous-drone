@@ -27,7 +27,7 @@ Build guide:
 Here's how you can start building this yourself:
 
 1. Produce the PCB(like from a pcb manufacturer)
-2. Buy all components from the BOM.CSV.(Some of the quantities are a bit higher than I need because for example: 10 capacitors might be cheaper than 4)
+2. Buy all components from the BOM.CSV.
 3. Solder all of the components on the PCB(I would recoment using the PCB file because I deleted a lot of the silkscreen text so it would be easier to design)
 4. Follow the instructions in the 'Firmware Readme.md' (In the firmware file)
 5. Print the drone frame(More about it below)
@@ -52,7 +52,7 @@ Current Version:
 -
 **V5.5:** New Drone frame I designed myself: 
 
-It's a 3 inch drone frame that I designed for 1404 motors. It can support a 20x20mm stack and 25.4x25.4 dji o4 air unit. 
+It's a 3 inch drone frame that I designed for 1506 motors. It can support a 20x20mm stack and 25.4x25.4 dji o4 air unit. 
 
 It has 4 rubber/tpu things that go around the bottom of the props to protect it. 
 
