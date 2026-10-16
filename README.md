@@ -29,7 +29,7 @@ Here's how you can start building this yourself:
 1. Produce the PCB(like from a pcb manufacturer)
 2. Buy all components from the BOM.CSV.(Some of the quantities are a bit higher than I need because for example: 10 capacitors might be cheaper than 4)
 3. Solder all of the components on the PCB(I would recoment using the PCB file because I deleted a lot of the silkscreen text so it would be easier to design)
-4. Compile the firmware and flash it to the flight controler(through the USB-C) ( more information below)
+4. Follow the instructions in the 'Firmware Readme.md' (In the firmware file)
 5. Print the drone frame(More about it below)
 6. Install the ESC, motors, and solder the connections.
 7. Install the FC and solder those connections and connect the ESC to the FC.
@@ -44,24 +44,6 @@ I have included 3 step files:
 2. 1x Bottom Plate - The bottom plate
 3. 2x TPU Guards - Protects the propellers and motors
 
-**About the Firmware:**
-
-Microcontroller: STM32F411CEU6 (ARM Cortex-M4 @ 100MHz, 512KB Flash)
-Base Firmware: Betaflight 4.5.x Unified Architecture
-Target Identifier: FC
-Pinout Mapping
-
-IMU (BMI270): Connected via SPI1 (PA5 SCK, PA6 MISO, PA7 MOSI, PA4 CS, PA1 EXTI)
-Digital Video (DJI O4): Connected via UART1 (PA9 TX1, PA10 RX1) using MSP DisplayPort protocol
-Radio Receiver (ELRS / CRSF): Connected via UART2 (PA2 TX2, PA3 RX2)
-ESC Motor Control: Pins PB0, PB1, PB4, PB5 (DShot300/DShot600 native timer support)
-Power Telemetry: Battery Voltage ADC on PB2, Current Sensing ADC on PB3
-Flashing Instructions
-
-Put the custom PCB into Bootloader mode by grounding BOOT0 during USB power insertion.
-Open Betaflight Configurator -> Firmware Flasher.
-Select Core Architecture STM32F411 and flash standard Betaflight 4.5.
-Access the CLI tab, paste the contents of STARDANCE_F411.config, and type save.
 
 Images gallery:
 -
@@ -82,9 +64,11 @@ In total, it weighs 44g when 3d printed.
 PCB layout:  
 The main changes I made was the dimensions from 39mmx37mm to 30mmx32mm. Everything is now compacted and looks much better from the V3 where it was larger and stuff was everywhere. I improved the routing of all of the components and moved every single component to the top of the board that I can use a hot plate and solder everything at once more easily and efficiently. 
 
+
 - Added ELRS pads for communication
 - Added GPS RX and TX
-- Added Borometer pads 
+- Added Borometer pads
+- Coded the firmware
 <img width="785" height="750" alt="Screenshot 2026-08-27 at 12 05 02 PM" src="https://github.com/user-attachments/assets/4f887015-b989-4f76-99ce-1e4ef7748bc7" />
 <img width="487" height="500" alt="Screenshot 2026-08-27 at 12 07 03 PM" src="https://github.com/user-attachments/assets/36097295-e3e2-463c-ad62-5239ef32e481" />
 
