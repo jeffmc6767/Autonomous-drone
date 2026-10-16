@@ -1,9 +1,11 @@
 
 JFC,
 -
-My custom 20x20 drone FC stack for 3-4s setups
+My custom 20x20 drone FC stack for 3-4s setups, and my custom 3 inch drone frame. 
 
 <img width="785" height="750" alt="Screenshot 2026-08-27 at 12 05 02 PM" src="https://github.com/user-attachments/assets/4f887015-b989-4f76-99ce-1e4ef7748bc7" />
+<img width="633" height="423" alt="Screenshot 2026-10-15 at 9 36 35 PM" src="https://github.com/user-attachments/assets/dc28dd8a-363b-423a-8f39-d30115489f55" />
+
 
 Specs:
 - 
@@ -13,6 +15,7 @@ Specs:
 - Costs around 1.2$ a print and tees 3.5 hours. 
 - 4K video 60fps (from the dji o4 air unit)
 - Usable with Ardu pilot, betafpv, and most other open source software, though I coded one myself(and with the help of AI). Its under the Firmware file
+- 44g PLA and PETG print. 
 
 
 
@@ -27,7 +30,7 @@ Here's how you can start building this yourself:
 2. Buy all components from the BOM.CSV.(Some of the quantities are a bit higher than I need because for example: 10 capacitors might be cheaper than 4)
 3. Solder all of the components on the PCB(I would recoment using the PCB file because I deleted a lot of the silkscreen text so it would be easier to design)
 4. Compile the firmware and flash it to the flight controler(through the USB-C)
-5. Print out the drone frame (First one you find under CAD file)
+5. Print the drone frame(More about it below)
 6. Install the ESC, motors, and solder the connections.
 7. Install the FC and solder those connections and connect the ESC to the FC.
 8. Install the DJI o4 air unit and also solder or connect the pins and headers. Mount the camera and antennas.
@@ -35,6 +38,11 @@ Here's how you can start building this yourself:
 10. Pair with your DJI Goggles and ELRS or DJI controller
 11. FLYYY!!
 
+**About the drone frame:**
+I have included 3 step files:
+1. 1x Top Plate - Top cover for the frame
+2. 1x Bottom Plate - The bottom plate
+3. 2x TPU Guards - Protects the propellers and motors 
 
 Images gallery:
 -
