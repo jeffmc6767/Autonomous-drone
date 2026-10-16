@@ -7,6 +7,7 @@ My custom 20x20 drone FC stack for 4s setups, and my custom 3 inch drone frame.
 <img width="633" height="423" alt="Screenshot 2026-10-15 at 9 36 35 PM" src="https://github.com/user-attachments/assets/dc28dd8a-363b-423a-8f39-d30115489f55" />
 
 
+**FOR THE STARDANCE REVIEWS:** I submitted this a long time ago I dont remember if I said in the note. In my KICAD schematic the stuff is all on the right side. Just zoom out and you can see everything.
 Specs:
 - 
 
