@@ -29,7 +29,7 @@ Here's how you can start building this yourself:
 1. Produce the PCB(like from a pcb manufacturer)
 2. Buy all components from the BOM.CSV.(Some of the quantities are a bit higher than I need because for example: 10 capacitors might be cheaper than 4)
 3. Solder all of the components on the PCB(I would recoment using the PCB file because I deleted a lot of the silkscreen text so it would be easier to design)
-4. Compile the firmware and flash it to the flight controler(through the USB-C)
+4. Compile the firmware and flash it to the flight controler(through the USB-C) ( more information below)
 5. Print the drone frame(More about it below)
 6. Install the ESC, motors, and solder the connections.
 7. Install the FC and solder those connections and connect the ESC to the FC.
@@ -42,7 +42,26 @@ Here's how you can start building this yourself:
 I have included 3 step files:
 1. 1x Top Plate - Top cover for the frame
 2. 1x Bottom Plate - The bottom plate
-3. 2x TPU Guards - Protects the propellers and motors 
+3. 2x TPU Guards - Protects the propellers and motors
+
+**About the Firmware:**
+
+Microcontroller: STM32F411CEU6 (ARM Cortex-M4 @ 100MHz, 512KB Flash)
+Base Firmware: Betaflight 4.5.x Unified Architecture
+Target Identifier: FC
+Pinout Mapping
+
+IMU (BMI270): Connected via SPI1 (PA5 SCK, PA6 MISO, PA7 MOSI, PA4 CS, PA1 EXTI)
+Digital Video (DJI O4): Connected via UART1 (PA9 TX1, PA10 RX1) using MSP DisplayPort protocol
+Radio Receiver (ELRS / CRSF): Connected via UART2 (PA2 TX2, PA3 RX2)
+ESC Motor Control: Pins PB0, PB1, PB4, PB5 (DShot300/DShot600 native timer support)
+Power Telemetry: Battery Voltage ADC on PB2, Current Sensing ADC on PB3
+Flashing Instructions
+
+Put the custom PCB into Bootloader mode by grounding BOOT0 during USB power insertion.
+Open Betaflight Configurator -> Firmware Flasher.
+Select Core Architecture STM32F411 and flash standard Betaflight 4.5.
+Access the CLI tab, paste the contents of STARDANCE_F411.config, and type save.
 
 Images gallery:
 -
