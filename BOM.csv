@@ -1,0 +1,36 @@
+Store:,Function,Name(In digikey and like in the stores,Quantity.,Final USD price(from CAD),Link:
+DIGIKEY:,Main Processor (MCU),IC MCU 32BIT 512KB FLSH 48UFQFPN,1.0,$10.6,https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F411CEU6/4935043
+DIGIKEY:,Motion Sensor (IMU),IMU ACCEL/GYRO I2C/SPI 14LGA,1.0,$5.5,https://www.digikey.ca/en/products/detail/bosch-sensortec/BMI270/13539829
+DIGIKEY:,Voltage Regulator (3.3V),IC REG LINEAR 3.3V 300MA SOT23-5,1.0,$0.3,https://www.digikey.ca/en/products/detail/diodes-incorporated/AP2127K-3.3TRG1/4470764
+DIGIKEY:,Power Step-Down Converter,IC REG BUCK ADJ 3A SOT23,1.0,$1.8,https://www.digikey.ca/en/products/detail/texas-instruments/TPS54302DDCR/6005786
+DIGIKEY:,8-Pin Connector,CONN HEADER SMD R/A 8POS 1MM,1.0,$1.0,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM08B-SRSS-TB/926611
+DIGIKEY:,Schottky Diode,DIODE SCHOTTKY 30V 1A SMA,1.0,$0.8,https://www.digikey.ca/en/products/detail/diodes-incorporated/B130L-13-F/815253
+DIGIKEY:,Green LED Light,LED GREEN CLEAR CHIP SMD 0603,2.0,$0.5,https://www.digikey.ca/en/products/detail/kingbright/APT1608SGC/1922572
+DIGIKEY:,0.1µF Capacitor,CAP CER 0.1UF 16V X7R 0402,2.0,$0.7,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05B104KO5NNNC/3886662
+DIGIKEY:,1µF Capacitor,CAP CER 1UF 16V X5R 0402,3.0,$0.4,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05A105KO5NNNC/3886728
+DIGIKEY:,2.2µF Capacitor,CAP CER 2.2UF 10V X5R 0402,2.0,$0.4,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05A225KP5NNNC/3887123
+DIGIKEY:,1kΩ Resistor,RES 1K OHM 1% 1/16W 0402,2.0,$0.3,https://www.digikey.ca/en/products/detail/yageo/RC0402FR-071KL/1005934
+DIGIKEY:,5.1kΩ Resistor,RES 5.1K OHM 1% 1/16W 0402,2.0,$0.3,https://www.digikey.ca/en/products/detail/yageo/RC0402FR-075K1L/1005972
+DIGIKEY:,73.2kΩ Resistor,RES 73.2K OHM 1% 1/16W 0402,1.0,$0.1,https://www.digikey.ca/en/products/detail/yageo/RC0402FR-0773K2L/5016075
+DIGIKEY:,USB-C Port,CONN RCP USB2.0 TYP C 16P SMD RA,1.0,$1.0,https://www.digikey.ca/en/products/detail/gct/USB4105-GF-A/10448937
+DIGIKEY:,4.7µF Capacitor,CAP CER 4.7UF 16V X7R 0805,3.0,$1.0,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL21B475KOFNNNE/3886873
+DIGIKEY:,10µH Power Inductor,FIXED IND 10UH 1.25A 513 MOHM,1.0,$1.6,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/74438335100/5803975
+DIGIKEY:,10µF Capacitor (Large),CAP CER 10UF 25V X5R 1210,1.0,$0.4,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL32A106KAULNNE/3888321
+DIGIKEY:,22µF Capacitor (Small),CAP CER 22UF 6.3V X5R 0402,2.0,$1.4,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05A226MQ5QUNC/5961284
+DIGIKEY:,6-Pin Connector,CONN HEADER SMD R/A 6POS 1MM,1.0,$0.8,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM06B-SHLS-TF/3313628
+DIGIKEY:,22µF Capacitor (Medium),CAP CER 22UF 25V X5R 0805,2.0,$1.5,https://www.digikey.ca/en/products/detail/yageo/CC0805MKX5R8BB226/5034175
+DIGIKEY:,10µF Capacitor (Small),CAP CER 10UF 10V X5R 0402,2.0,$0.7,https://www.digikey.ca/en/products/detail/yageo/CC0402MRX5R6BB106/11496660
+DIGIKEY:,4.7µF Capacitor (Small),CAP CER 4.7UF 10V X5R 0402,2.0,$0.3,https://www.digikey.ca/en/products/detail/murata-electronics/GRM155R61A475MEAAD/4905187
+DIGIKEY:,10kΩ Resistor,RES 10K OHM 1% 1/16W 0402,1.0,$0.3,https://www.digikey.ca/en/products/detail/yageo/RC0402FR-0710KL/1005929
+DIGIKEY:,100µF Capacitor,CAP CER 100UF,2.0,,
+,,,,,
+GETFPV,BLS 35A ESC,"Skystars KO25 25A BLHeli_S 3-6S 4-in-1 ESC - Mini 20x20
+",1.0,$46.0,https://www.getfpv.com/skystars-ko25-25a-blheli-s-3-6s-4-in-1-esc-mini-20x20.html?srsltid=AU7gw4WPmLiZGMO5x3GkLMZ5zURyshstBarNg4t2eZRMK5CaCbcu4B8o
+BETAFPV,Motors,LAVA Series 1506 Brushless Motors,4.0,$61.0,https://betafpv.com/collections/1505-2306-motors/products/lava-series-1506-brushless-motors
+ROTORVILLAGE,Propellers,Gemfan Hurricane 3016-3 (2CW+2CCW) - 1.5MM Hub,1.0,$4.0,https://rotorvillage.ca/gemfan-hurricane-3016-3-2cw-2ccw-1-5mm-hub/
+BETAFPV,Batterys,BetaFPV Lava II 4S 680mAh 95C XT30 LiPo (2pcs),1.0,$37.0,https://rotorvillage.ca/betafpv-lava-ii-4s-680mah-95c-xt30-lipo-2pcs/
+ROTORVILLAGE,GPS,GEPRC M10Q GPS,1.0,$34.0,https://rotorvillage.ca/geprc-m10q-gps/
+TOOLKITRC,LIPO charger,M4 Pocket Charger,1.0,$39.0,https://www.toolkitrc.com/product/m4-pocket/
+JLCPCB,PCB,Custom PCB,1.0,$37.0,https://jlcpcb.com/
+Tax:,,,,$37.6,
+Grand Total:,,,,$327.1,
