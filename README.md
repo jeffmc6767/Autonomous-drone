@@ -1,7 +1,7 @@
 
 JFC,
 -
-My custom 20x20 drone FC stack for 3-4s setups, and my custom 3 inch drone frame. 
+My custom 20x20 drone FC stack for 4s setups, and my custom 3 inch drone frame. 
 
 <img width="785" height="750" alt="Screenshot 2026-08-27 at 12 05 02 PM" src="https://github.com/user-attachments/assets/4f887015-b989-4f76-99ce-1e4ef7748bc7" />
 <img width="633" height="423" alt="Screenshot 2026-10-15 at 9 36 35 PM" src="https://github.com/user-attachments/assets/dc28dd8a-363b-423a-8f39-d30115489f55" />
@@ -73,8 +73,6 @@ The main changes I made was the dimensions from 39mmx37mm to 30mmx32mm. Everythi
 <img width="487" height="500" alt="Screenshot 2026-08-27 at 12 07 03 PM" src="https://github.com/user-attachments/assets/36097295-e3e2-463c-ad62-5239ef32e481" />
 
 <img width="452" height="515" alt="Screenshot 2026-08-27 at 12 09 32 PM" src="https://github.com/user-attachments/assets/9961de37-1eeb-4fe5-8e9a-2bfd9c89132c" />
-
-This version will now use a custom 2 inch drone frame that I will 3d print 
 
 **Past Versions:**
 V4:
